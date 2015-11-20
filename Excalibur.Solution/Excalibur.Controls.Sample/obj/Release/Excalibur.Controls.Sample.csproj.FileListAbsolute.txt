@@ -1,0 +1,12 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\bin\Release\Excalibur.Controls.Sample.exe.config
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\bin\Release\Resources\Images\image1.png
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\bin\Release\Resources\Images\image2.png
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\bin\Release\Resources\Images\image3.png
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\bin\Release\Excalibur.Controls.Sample.exe
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\bin\Release\Excalibur.Controls.Sample.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\obj\Release\Excalibur.Controls.Sample.Form1.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\obj\Release\Excalibur.Controls.Sample.Properties.Resources.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\obj\Release\Excalibur.Controls.Sample.csproj.GenerateResource.Cache
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\obj\Release\Excalibur.Controls.Sample.exe
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\obj\Release\Excalibur.Controls.Sample.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Sample\obj\Release\Excalibur.Controls.Sample.csprojResolveAssemblyReference.cache

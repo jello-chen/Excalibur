@@ -1,0 +1,7 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\obj\Debug\Excalibur.Framework.Sample.Properties.Resources.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\obj\Debug\Excalibur.Framework.Sample.csproj.GenerateResource.Cache
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\bin\Debug\Excalibur.Framework.Sample.exe.config
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\bin\Debug\Excalibur.Framework.Sample.exe
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\bin\Debug\Excalibur.Framework.Sample.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\obj\Debug\Excalibur.Framework.Sample.exe
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework.Sample\obj\Debug\Excalibur.Framework.Sample.pdb

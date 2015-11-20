@@ -1,0 +1,4 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\bin\Release\Excalibur.Framework.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\bin\Release\Excalibur.Framework.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\obj\Release\Excalibur.Framework.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\obj\Release\Excalibur.Framework.pdb

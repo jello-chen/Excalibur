@@ -1,0 +1,6 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\bin\Debug\Excalibur.Framework.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\bin\Debug\Excalibur.Framework.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\obj\Debug\Excalibur.Framework.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\obj\Debug\Excalibur.Framework.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\obj\Debug\Excalibur.Framework.Controls.Window.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Framework\obj\Debug\Excalibur.Framework.csproj.GenerateResource.Cache

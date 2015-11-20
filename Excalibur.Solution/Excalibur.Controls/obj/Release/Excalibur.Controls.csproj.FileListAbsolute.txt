@@ -1,0 +1,4 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\bin\Release\Excalibur.Controls.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\bin\Release\Excalibur.Controls.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Release\Excalibur.Controls.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Release\Excalibur.Controls.pdb

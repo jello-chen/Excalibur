@@ -1,0 +1,4 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\bin\Debug\Excalibur.Controls.Test.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\bin\Debug\Excalibur.Controls.Test.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\obj\Debug\Excalibur.Controls.Test.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\obj\Debug\Excalibur.Controls.Test.pdb

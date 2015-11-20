@@ -1,0 +1,14 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.csprojResolveAssemblyReference.cache
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.Properties.Resources.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.ShellView.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.csproj.GenerateResource.Cache
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Project.Template.exe.config
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Project.Template.exe
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Project.Template.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Controls.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Framework.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Controls.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\bin\Debug\Excalibur.Framework.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.exe
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Project.Template\obj\Debug\Excalibur.Project.Template.StudentItemView.resources

@@ -1,0 +1,5 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\bin\Release\Excalibur.Controls.Test.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\bin\Release\Excalibur.Controls.Test.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\obj\Release\Excalibur.Controls.Test.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\obj\Release\Excalibur.Controls.Test.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls.Test\obj\Release\Excalibur.Controls.Test.csprojResolveAssemblyReference.cache

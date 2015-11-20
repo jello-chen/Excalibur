@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67892222-8104-4AA8-9130-E236B75F45E8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Excalibur.Controls</RootNamespace>
+    <AssemblyName>Excalibur.Controls</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Designer\XWaitingCircleDesigner.cs" />
+    <Compile Include="Designer\XWaitingCircleDesignForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Designer\XWaitingCircleDesignForm.designer.cs">
+      <DependentUpon>XWaitingCircleDesignForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="XAppContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XAppContainer.Designer.cs">
+      <DependentUpon>XAppContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XButton.Designer.cs">
+      <DependentUpon>XButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XPageControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XPageControl.Designer.cs">
+      <DependentUpon>XPageControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XWaitingCircle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XWaitingCircle.Designer.cs">
+      <DependentUpon>XWaitingCircle.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Designer\XWaitingCircleDesignForm.resx">
+      <DependentUpon>XWaitingCircleDesignForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XButton.resx">
+      <DependentUpon>XButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XPageControl.resx">
+      <DependentUpon>XPageControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\AppContainer.bmp" />
+    <Content Include="Resources\icon_first_active.png" />
+    <Content Include="Resources\icon_first_normal.png" />
+    <Content Include="Resources\icon_jump_active.png" />
+    <Content Include="Resources\icon_jump_normal.png" />
+    <Content Include="Resources\icon_last_active.png" />
+    <Content Include="Resources\icon_last_normal.png" />
+    <Content Include="Resources\icon_next_active.png" />
+    <Content Include="Resources\icon_next_normal.png" />
+    <Content Include="Resources\icon_prev_active.png" />
+    <Content Include="Resources\pagination2_07.png" />
+    <Content Include="Resources\icon_prev_normal.png" />
+    <Content Include="Resources\pagination_07.png" />
+    <Content Include="Resources\pre.png" />
+    <Content Include="Resources\preN.png" />
+    <Content Include="Resources\XAppContainer.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

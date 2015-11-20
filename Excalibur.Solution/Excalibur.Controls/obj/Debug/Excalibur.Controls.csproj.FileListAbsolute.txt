@@ -1,0 +1,9 @@
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\bin\Debug\Excalibur.Controls.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\bin\Debug\Excalibur.Controls.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.dll
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.pdb
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.XButton.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.csproj.GenerateResource.Cache
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.Properties.Resources.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.XPageControl.resources
+F:\dotnet\Winform\Framework\Excalibur.Solution\Excalibur.Controls\obj\Debug\Excalibur.Controls.Designer.XWaitingCircleDesignForm.resources
